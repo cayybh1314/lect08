@@ -1,7 +1,7 @@
 """
     autor: zqc
     date:  20190806
-    version: v2.0
+    version: v3.0
     feature: 模拟掷骰子
     feature: 2.0  两次掷骰子
     feature: 3.0  可视化两次掷骰子结果。
